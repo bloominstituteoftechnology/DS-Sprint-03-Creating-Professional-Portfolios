@@ -1,19 +1,19 @@
 # Portfolio assignment
 
-Enter your portfolio URL:
+Enter your portfolio URL: https://a-apte.github.io/
 
 
 Complete the checklist of portfolio requirements
 (Mark with an x between square brackets)
 
-- [ ] Your name (or pseudonym)
-- [ ] Your bio, with a hypothesis for your niche
+- [x] Your name (or pseudonym)
+- [x] Your bio, with a hypothesis for your niche
     - [ ] Particular industry
     - [ ] Particular business problem
     - [ ] Type of data scientist
-    - [ ] Other: 
-- [ ] One or more links. Can include:
-    - [ ] Email
+    - [x] Other: Data Interests
+- [x] One or more links. Can include:
+    - [x] Email
     - [ ] LinkedIn
     - [ ] Twitter, etc
     - [ ] Writing, notebooks, projects
@@ -24,6 +24,6 @@ Complete the checklist of portfolio requirements
     
 Stretch Goals:
 
-- [ ] Add posts
-- [ ] Experiment with design
+- [x] Add posts
+- [x] Experiment with design
  
