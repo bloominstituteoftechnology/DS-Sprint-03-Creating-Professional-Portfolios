@@ -19,11 +19,11 @@ Complete the checklist of portfolio requirements
     - [ ] Writing, notebooks, projects
     - [ ] What you're learning. A book you're reading
     - [ ] Other:
-- [ ] One or more images.
+- [x] One or more images.
     
     
 Stretch Goals:
 
-- [ ] Add posts
+- [x] Add posts
 - [ ] Experiment with design
  
