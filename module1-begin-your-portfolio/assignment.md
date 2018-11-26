@@ -6,7 +6,7 @@ Enter your portfolio URL:
 Complete the checklist of portfolio requirements
 (Mark with an x between square brackets)
 
-- [ ] Your name (or pseudonym)
+- [x] Your name (or pseudonym)
 - [ ] Your bio, with a hypothesis for your niche
     - [ ] Particular industry
     - [ ] Particular business problem
@@ -19,7 +19,7 @@ Complete the checklist of portfolio requirements
     - [ ] Writing, notebooks, projects
     - [ ] What you're learning. A book you're reading
     - [ ] Other:
-- [ ] One or more images.
+- [x] One or more images.
     
     
 Stretch Goals:
