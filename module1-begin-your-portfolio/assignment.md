@@ -1,6 +1,6 @@
 # Portfolio assignment
 
-Enter your portfolio URL:
+Enter your portfolio URL: https://valogonor.github.io/
 
 
 Complete the checklist of portfolio requirements
