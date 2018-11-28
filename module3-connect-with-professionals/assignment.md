@@ -3,26 +3,29 @@
 
 ### List your target geographic areas
 
-- 
+- New Jersey. Hopefully not more than an hour commute.
 
 
 ### List your target industries
 
-- 
+- Healthcare
+- Pharmaceutical
+- Automotive
+- Government
 
 
 ### List 10 companies in your target geographic area or industry
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. BMW Headquarters
+2. Hybrid Healthcare Comm LLC
+3. ENA Healthcare Communications
+4. Blue Cross/ Blue Shield
+5. Bi-Coastal Pharmaceutical Corporation
+6. Granard Pharmaceutical
+7. Hikma Pharmaceuticals USA Inc.
+8. Fail Safe Testing Inc.
+9. Two Rivers Title Company
+10. New Jersey American Water Company
 
 
 ### Find 5 data scientists who:
