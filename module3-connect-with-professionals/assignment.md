@@ -51,9 +51,9 @@ Checklist:
 - [ ] Show enthusiasm! (But no desperation.)
 
 Your message:
+You have an impressive LinkedIn Page. Though I'm not sure I'm quite ready to send you my resume, presently I'm attending the Lambda School for Data Science and Machine Learning. I would love to get some advice and/or guidance from you as I continue down this path. Thanks!
 
-
-
+Hi Kendra. You have an impressive LinkedIn Page. I'm in the process of changing career directions and studying data science and machine learning. I'd love if we could connect. I'd welcome any advice and/or guidance you'd have to offer. Thanks!
 
 ### Stretch goals
 
