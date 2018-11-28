@@ -35,7 +35,7 @@ Government
 
 List their URLs, and something interesting about each person and/or their company:
 
-1.Solar Turbines - https://www.linkedin.com/in/cody-allen-89691013/
+1. Solar Turbines - https://www.linkedin.com/in/cody-allen-89691013/
 2. Xylem Inc. - https://www.linkedin.com/in/christopher-mains/
 3. Motive - Eric Blank https://www.linkedin.com/in/blankeric/
 4. Decision Logic (dba for Clarilogic Inc.) https://www.linkedin.com/in/deannharris/
@@ -52,6 +52,13 @@ Checklist:
 - [ ] Show enthusiasm! (But no desperation.)
 
 Your message:
+
+Hi Cody,
+I recently came across one of you papers, "Gas Turbine Machinery Diagnostics: A Brief Review and a Sample Application".  I am really facinated by the easily understandable 3-D plots, along with the discussion of machine learning as it relates to the turbine sensor data.  Just curious as to how you produced the visuals?  Seaborn?  
+
+Most of my life, I have been facinated by data and recently decided to take a leap out of the sales world and pursue data science.  I noticed that we are both in the San Diego area and was wondering if I could take you out lunch and hear some of your insights and suggestions.
+
+Does next Wednesday at Noon work for you?  I Noticed you work near Old Town.  Does the Mision Brewery work for you?  Thanks for your time and I look forward to meeting your.  Feel free to contact me by email or at 951-303-5165
 
 
 
