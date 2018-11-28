@@ -6,24 +6,24 @@ Enter your portfolio URL:
 Complete the checklist of portfolio requirements
 (Mark with an x between square brackets)
 
-- [ ] Your name (or pseudonym)
-- [ ] Your bio, with a hypothesis for your niche
-    - [ ] Particular industry
-    - [ ] Particular business problem
-    - [ ] Type of data scientist
+- [X ] Your name (or pseudonym)
+- [ X] Your bio, with a hypothesis for your niche
+    - [X ] Particular industry
+    - [ X] Particular business problem
+    - [ X] Type of data scientist
     - [ ] Other: 
-- [ ] One or more links. Can include:
+- [X ] One or more links. Can include:
     - [ ] Email
     - [ ] LinkedIn
     - [ ] Twitter, etc
     - [ ] Writing, notebooks, projects
     - [ ] What you're learning. A book you're reading
     - [ ] Other:
-- [ ] One or more images.
+- [ X] One or more images.
     
     
 Stretch Goals:
 
-- [ ] Add posts
+- [X ] Add posts
 - [ ] Experiment with design
  
