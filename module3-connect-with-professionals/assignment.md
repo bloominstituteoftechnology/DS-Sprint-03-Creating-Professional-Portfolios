@@ -85,4 +85,8 @@ Pierre Damiba
 16 hrs ago
 Hi, glad you liked the article! I'm going to have to pass for now, I'm still working on the article and this is a very rough draft. Thank you for the offer, I'd love to reconnect later!
 
+Example 2- Linkedin
 
+Example 3- Email
+
+Example 4-Meetup
