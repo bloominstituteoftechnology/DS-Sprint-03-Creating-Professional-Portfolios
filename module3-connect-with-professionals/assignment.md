@@ -43,8 +43,8 @@ List their URLs, and something interesting about each person and/or their compan
 1. https://www.linkedin.com/in/carolina-marquez-7103514/ --> Carolina worked in finance before beginning at Opendoor.
 2. https://www.linkedin.com/in/briantlakey/ --> Brian has an undergraduate degree in Psychology
 3. https://www.linkedin.com/in/jeremy-elser-phd-47887416/  --> Jeremy studied biomedical engineering before transitioning to DS + works at Palantir
-4. https://www.linkedin.com/in/xuren/ Did our undergraduate together. Worked in Data Science
-5. https://www.linkedin.com/in/louisguitton/ Louis works in Berlin for one of my favorite football apps.
+4. https://www.linkedin.com/in/xuren/ --> Did our undergraduate together. Worked in Data Science
+5. https://www.linkedin.com/in/louisguitton/ --> Louis works in Berlin for one of my favorite football apps.
 
 
 ### Draft 1 cold email or LinkedIn message to request an informational interview
