@@ -1,3 +1,5 @@
+Sent completed document to PM via Slack. 2018-11-28
+
 # Connect with professionals assignment
 
 
