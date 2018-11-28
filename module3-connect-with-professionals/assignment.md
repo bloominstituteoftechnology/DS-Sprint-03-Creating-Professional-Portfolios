@@ -40,9 +40,13 @@
 List their URLs, and something interesting about each person and/or their company:
 
 1.https://www.linkedin.com/in/yan-zhao-22a9a6a0/  Yan Zhao worked at Sony Electronics before Boeing
+
 2.https://www.linkedin.com/in/andrey-zaikin-ph-d-8751127/ Andrey Zaiken was in intern for the U.N in Uzbekistan
+
 3. https://www.linkedin.com/in/alquimusta/ Mustafa studied at MIT 
+
 4. https://www.linkedin.com/in/marconway/ Mark recieved a recomeendation from a senior data scientist at microsoft
+
 5. https://www.linkedin.com/in/stephen-philip/ Stephen is a senior data scientist and cloud AI lead at microsoft
 
 
