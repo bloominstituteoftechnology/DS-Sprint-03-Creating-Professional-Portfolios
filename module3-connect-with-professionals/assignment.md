@@ -3,12 +3,17 @@
 
 ### List your target geographic areas
 
-- 
+- San Francisco Bay Area
+- Los Angeles
+- New York City Area
+- International
 
 
 ### List your target industries
 
-- 
+- Fintech
+- Trading / Investing Firms
+- Biotechnology
 
 
 ### List 10 companies in your target geographic area or industry
