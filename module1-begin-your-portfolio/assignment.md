@@ -20,6 +20,7 @@ Complete the checklist of portfolio requirements
     - [ ] What you're learning. A book you're reading
     - [ ] Other:
 - [x] One or more images.
+
     
     
 Stretch Goals:
