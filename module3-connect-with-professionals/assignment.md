@@ -74,6 +74,15 @@ https://careers.google.com/stories/damiba-google-assistant-product-profile/#_ga=
 ### Draft 1 cold email or LinkedIn message to request an informational interview
 
 
+EXAMPLE 1-Medium
 
+
+
+16 hrs ago
+Hi Pierre, this is a great article! Would you like to feature it on our publication here on Medium? It would be a great way to boost your piece's outreach to a wider audience. Let me know your thoughts and I can then add you as a writer so that you can link your piece and have it reviewed by our editors!
+
+Pierre Damiba
+16 hrs ago
+Hi, glad you liked the article! I'm going to have to pass for now, I'm still working on the article and this is a very rough draft. Thank you for the offer, I'd love to reconnect later!
 
 
