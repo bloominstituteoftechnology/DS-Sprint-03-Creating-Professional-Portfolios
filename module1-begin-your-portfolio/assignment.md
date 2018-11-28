@@ -1,6 +1,6 @@
 # Portfolio assignment
 
-Enter your portfolio URL:
+Enter your portfolio URL: brit228.github.io
 
 
 Complete the checklist of portfolio requirements
