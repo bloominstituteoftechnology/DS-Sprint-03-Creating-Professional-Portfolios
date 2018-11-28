@@ -17,6 +17,7 @@
 - Government Policy
 - Education
 - Tech
+- Real Estate
 
 
 ### List 10 companies in your target geographic area or industry
@@ -57,7 +58,6 @@ Checklist:
 - [ ] Show enthusiasm! (But no desperation.)
 
 Your message:
-
 
 
 
