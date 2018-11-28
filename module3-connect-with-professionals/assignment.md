@@ -3,12 +3,20 @@
 
 ### List your target geographic areas
 
-- 
+- Austin, TX
+- New York, NY
+- Berlin, Germany
+- Munich, Germany
+- London, England
+- Tel Aviv, Israel
 
 
 ### List your target industries
 
-- 
+- Finance
+- Government Policy
+- Education
+- Tech
 
 
 ### List 10 companies in your target geographic area or industry
