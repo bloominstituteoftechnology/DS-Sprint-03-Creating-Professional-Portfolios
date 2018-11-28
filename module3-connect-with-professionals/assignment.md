@@ -3,7 +3,7 @@
 
 ### List your target geographic areas
 
-- 
+- New York City
 
 
 ### List your target industries
@@ -13,16 +13,16 @@
 
 ### List 10 companies in your target geographic area or industry
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Audible
+2. Alluvium
+3. Amazon
+4. Spotify
+5. IBM
+6. Uber
+7. Gartner
+8. Facebook
+9. Google
+10. Meetup
 
 
 ### Find 5 data scientists who:
@@ -32,9 +32,9 @@
 
 List their URLs, and something interesting about each person and/or their company:
 
-1.
-2. 
-3. 
+1. https://www.linkedin.com/in/alexander-heath-173328b0/  We both went to Rice
+2. https://www.linkedin.com/in/robinsones/  We both went to Rice
+3. https://www.linkedin.com/in/psamueladams/ We both went to Rice
 4. 
 5. 
 
