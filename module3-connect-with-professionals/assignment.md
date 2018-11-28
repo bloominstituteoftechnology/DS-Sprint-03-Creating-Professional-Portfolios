@@ -21,16 +21,16 @@
 
 ### List 10 companies in your target geographic area or industry
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Indeed
+2. Cerebri AI
+3. Palantir
+4. Home Away
+5. PPRO
+6. Amazon
+7. Bragi
+8. Thought Provoking Consulting
+9. Spotify
+10. Opendoor
 
 
 ### Find 5 data scientists who:
