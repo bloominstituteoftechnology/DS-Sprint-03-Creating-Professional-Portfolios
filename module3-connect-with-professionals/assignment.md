@@ -3,26 +3,29 @@
 
 ### List your target geographic areas
 
-- 
-
+- Washington, DC
+- Atlanta
+- San Francisco
+- New York
 
 ### List your target industries
 
-- 
-
+- Public Policy
+- Health
+- Environment
 
 ### List 10 companies in your target geographic area or industry
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Aristotle
+2. Natural Resources Defense Council, Inc.
+3. Administrative Office of the Courts of Georgia
+4. Economic Development Research Group
+5. Center for Sustainable Energy
+6. Vibrant Emotional Health
+7. Leidos
+8. American Progress
+9. Niskanen Center
+10. Google
 
 
 ### Find 5 data scientists who:
