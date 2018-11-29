@@ -16,17 +16,17 @@
 
 ### List 10 companies in your target geographic area or industry
 
-Synthego Corporation
-Sutro Biopharma
-System1
-Zymergen
-Synvitrobio
-Emerald Therapeutics
-Spring
-Freenome
-Color Genomics
-Genentech
-Grand Rounds
+1. Synthego Corporation
+2. Sutro Biopharma
+3. System1
+4. Zymergen
+5. Synvitrobio
+6. Emerald Therapeutics
+7. Spring
+8. Freenome
+9. Color Genomics
+10. Genentech
+11. Grand Rounds
 
 
 ### Find 5 data scientists who:
