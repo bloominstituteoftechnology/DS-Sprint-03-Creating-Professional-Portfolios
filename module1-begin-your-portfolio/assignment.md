@@ -25,5 +25,5 @@ Complete the checklist of portfolio requirements
 Stretch Goals:
 
 - [ ] Add posts
-- [ ] Experiment with design
+- [x] Experiment with design
  
