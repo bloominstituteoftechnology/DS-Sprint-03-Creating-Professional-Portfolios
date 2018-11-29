@@ -48,10 +48,10 @@ List their URLs, and something interesting about each person and/or their compan
 
 Checklist:
 
-- [ x ] Build rapport (with common ground and/or compliment)
-- [ x ] Ask a question, such as: What’s a day in the life like there? / What are the biggest challenges you’re working on? / Would you be free for a 30 minute video chat?
-- [ x ] Share your background, in 1-2 sentences. (No self-deprecation.)
-- [ x ] Show enthusiasm! (But no desperation.)
+[ x ] Build rapport (with common ground and/or compliment)
+[ x ] Ask a question, such as: What’s a day in the life like there? / What are the biggest challenges you’re working on? / Would you be free for a 30 minute video chat?
+[ x ] Share your background, in 1-2 sentences. (No self-deprecation.)
+[ x ] Show enthusiasm! (But no desperation.)
 
 Your message:
 
