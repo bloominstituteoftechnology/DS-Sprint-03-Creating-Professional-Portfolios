@@ -2,8 +2,8 @@
 
 
 
-![image](http://www.dropbox.com/s/g9nvwub6isqa49h/Screenshot%202018-11-29%2014.35.10.png "Logo Title Text 1")
+![image](https://res.cloudinary.com/dx4ans66h/image/upload/v1543535673/Screenshot_2018-11-29_14.35.10_j2g5vf.png)
 
-![image](https://drive.google.com/open?id=1yeCjWVerIiSNhupnMPnrSdLRwYt1k-85)
+![image](https://res.cloudinary.com/dx4ans66h/image/upload/v1543535673/Screenshot_2018-11-29_18.32.34_c2pgel.png)
 
 
