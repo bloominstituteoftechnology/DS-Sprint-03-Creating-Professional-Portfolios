@@ -1,5 +1,6 @@
 # **NBA team Elo ratings may not be 100% accurate due to unforeseen circumstances.**
 
+## **Part 1**
 Sports have always been a hotbed of data that is scrutinized, analyzed and argued over. Throughout the years, one of the most heated arguments has been "who is the best". The best team. The best player. The best position. The best era. Like any NBA season, all pundits believe that there has to be a champion at the end of their argument season.
 
 Now enter statistics. 
@@ -14,9 +15,9 @@ The Elo rating is a zero-sum calculation of the relative skill of a player or co
 
 If I had to make an assumption about what the results will be, I would lean towards a regression towards the mean over the history the league. I would also assume that the regular season results would skew higher or lower above the mean than for the entire history of the league.
 
-**Part 2**
+## **Part 2**
 
-List of resources that can be used for the project:
+#### List of resources that can be used for the project:
 * fivethirthyeight - [How ELO is calculated](https://https://fivethirtyeight.com/features/how-we-calculate-nba-elo-ratings/)
   * This is an explanation of how Fivethirtheight has used Elo and calculated the scores. Also, it shows what features are used and the impact of those features on scoring. 
 
@@ -29,7 +30,7 @@ List of resources that can be used for the project:
 * Wikipedia - [Elo Rating](https://en.wikipedia.org/wiki/Elo_rating_system)
   * Provides the standard wikipedia academic history and understanding of Elo rating. The math behind the calculations is included and can come in handy if I want to use other inputs and augment the way NBA uses Elo.
   
-**Part 3**
+## **Part 3**
 
 I was able to download the data and start to evaluate the dataset. I accessed the data with:
 
