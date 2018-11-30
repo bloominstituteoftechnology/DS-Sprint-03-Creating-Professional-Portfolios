@@ -3,22 +3,22 @@
 
 ### List your target geographic areas
 
-- 
+- Austin Texas
 
 
 ### List your target industries
 
-- 
+- Tech Startups
 
 
 ### List 10 companies in your target geographic area or industry
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Indeed
+2. Zilliant
+3. Code Pilot
+4. Anaconda
+5. SchooLinks
+6. RetailMeNot, Inc.
 7. 
 8. 
 9. 
