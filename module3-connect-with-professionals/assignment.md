@@ -1,15 +1,18 @@
 # Connect with professionals assignment
+# In Progress
+## Chicago:
+BCG
+Enova
+A.T. Kearney
+IRI
 
+## LA:
+UM Worldwide
+Oxford Road
+Carat USA
 
-### List your target geographic areas
-
-- 
-
-
-### List your target industries
-
-- 
-
+## Phoenix:
+Katerra (construction)
 
 ### List 10 companies in your target geographic area or industry
 
