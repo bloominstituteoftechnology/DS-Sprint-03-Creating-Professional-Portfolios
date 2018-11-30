@@ -60,7 +60,7 @@ I recently came across your very well written blog post on Houzz Blog. I was imp
 
 I was fascinated to read that you have an analytics groups "where we have covered things like hypothesis testing, experiment design and causal inference. We just built a data science library to encourage people to learn and grow." I'm curious to know if that library is available for people outside the company? What topics do you cover and what computer langauge you use to build the library? Would you be free for a quick meetup/chat? I live in Palo Alto.  
 
-I'm a student at Lambda School currently enrolled in the Data Science intensive program. It's a 7 month long program ending in Summer, 2019. I would be interesting in working at Houzz or other similar startups after I finish my course! 
+I'm a student at Lambda School currently enrolled in the Data Science intensive program. It's a 7 month long program ending in summer, 2019. I would be interesting in working at Houzz or other similar startups after I finish my course! 
 
 Thank you and hope to hear back from you!
 Manjula Mishra
