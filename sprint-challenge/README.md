@@ -42,3 +42,12 @@ My next steps should be:
 
 1. To address the NaN elements of the data and figure what to do with them. Some data is not available for periods prior to the 1960's because those statistics were not measured prior to that time. This requires understanding the importance of specific metrics and relevance to other metrics.
 2. Filter out what metrics I will omit from evaluation and sort determine how I will sort, group and divide the dataset.
+
+
+## **Hemingway App Before and After of Part 1**
+
+#### **Before**
+![Image](https://github.com/hughjafro/DS-Sprint-03-Creating-Professional-Portfolios/blob/master/sprint-challenge/DS%2001%20Sprint%2003%20%20before.png)
+
+#### **After**
+![Image](https://github.com/hughjafro/DS-Sprint-03-Creating-Professional-Portfolios/blob/master/sprint-challenge/DS%2001%20Sprint%2003%20after.png)
