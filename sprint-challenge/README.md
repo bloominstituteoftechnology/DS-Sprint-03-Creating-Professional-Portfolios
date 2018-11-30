@@ -1,4 +1,6 @@
 {
+  "nbformat": 4,
+  "nbformat_minor": 0,
   "metadata": {
     "colab": {
       "name": "DS_Unit_1_Sprint_Challenge_3.ipynb",
@@ -11,8 +13,6 @@
       "display_name": "Python 3"
     }
   },
-  "nbformat": 4,
-  "nbformat_minor": 0,
   "cells": [
     {
       "metadata": {
@@ -25,7 +25,6 @@
         "\n",
         "# Creating Professional Portfolios\n",
         "\n",
-        <br><br>
         "For your Sprint Challenge, you will **write about your upcoming [data storytelling portfolio project](https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r)**.\n",
         "\n",
         "(Don't worry, you don't have to choose your final idea now. For this challenge, you can write about any idea you're considering.)"
@@ -48,6 +47,7 @@
         "\n",
         "[This is hard](https://quoteinvestigator.com/2012/04/28/shorter-letter/), but you can do it!\n",
         "\n",
+        "- In US primary and secondary education, there is a deepening divide between teh learning happening in top rated schools versus bottom rated schools. I hypothesize that this is because teachers graduating from top universities rarely opt for the low performing schools that need their expertise the most .\n",
         "#### Stretch goals\n",
         "- Write more about your idea. Tell us what the story's about. Show us why it's interesting. Continue to follow the inverted pyramid structure. \n",
         "- Improve your readability. Post your \"before & after\" scores from the Hemingway App."
@@ -75,6 +75,8 @@
         "#### Find sources\n",
         "- Link to at least 2 relevant sources for your topic. Sources could include any data or writing about your topic.\n",
         "- Use [Markdown](https://commonmark.org/help/) to format your links.\n",
+        "- Best Teaching Colleges (https://www.niche.com/colleges/search/best-colleges-for-education/). This link shows the brick and mortar colleges with top Eductaion Departments.\n",
+        "- Linkeding (https://www.linkedin.com/search/results/people/?facetIndustry=%5B%2267%22%5D&facetSchool=%5B%2219443%22%5D&origin=FACETED_SEARCH). This link is a search to show where teachers graduating from top programs end up teaching\n",
         "- Summarize each source in 1-2 sentences.\n",
         "\n",
         "#### Stretch goals\n",
