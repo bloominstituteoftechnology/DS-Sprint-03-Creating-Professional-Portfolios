@@ -25,6 +25,7 @@
         "\n",
         "# Creating Professional Portfolios\n",
         "\n",
+        <br><br>
         "For your Sprint Challenge, you will **write about your upcoming [data storytelling portfolio project](https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r)**.\n",
         "\n",
         "(Don't worry, you don't have to choose your final idea now. For this challenge, you can write about any idea you're considering.)"
@@ -39,18 +40,25 @@
       "source": [
         "# Part 1\n",
         "\n",
+        <br><br>
         "**Describe an idea** you could work on for your upcoming data storytelling project. What's your hypothesis?\n",
         "\n",
         "#### Write a [lede](https://www.thoughtco.com/how-to-write-a-great-lede-2074346) (first paragraph)\n",
-        "- Put the bottom line up front.\n",
-        "- Use 60 words or fewer. (The [Hemingway App](http://www.hemingwayapp.com/) gives you word count.)\n",
+        <br><br>
+        "- More often than not, first time teachers chose schools near their hometown. This is causing a cycle of poverty in education where students from top school districts are likely to be accepted into univeristies with top Education departments. Then, upon, graduation, the new teacher is most likely to return to teach in their top school district. On the downside, teachers motivated to teach in low performing school districts are generally former students of the low performing school district. Two major schools of though have developed on how to break this cycle. The first is recruiting teachers from high performing schools districts to teach in low performing areas, the second is providing grants and special programs to students from low performing school districts that are interested in teaching in their community. My study will look at school districts that developed recruitment policies around one of these two solutions. I will be analyzing the effectiveness of these policy changes. \n",
+        "\n",
+        <br><br>
+        "- Put the bottom line up front.\n"
+    "- Use 60 words or fewer. (The [Hemingway App](http://www.hemingwayapp.com/) gives you word count.)\n",
         "\n",
         "[This is hard](https://quoteinvestigator.com/2012/04/28/shorter-letter/), but you can do it!\n",
         "\n",
-        "- In US primary and secondary education, there is a deepening divide between teh learning happening in top rated schools versus bottom rated schools. I hypothesize that this is because teachers graduating from top universities rarely opt for the low performing schools that need their expertise the most .\n",
-        "#### Stretch goals\n",
+        <br><br>
+        "**Stretch Goals** \n",
+        <br>
         "- Write more about your idea. Tell us what the story's about. Show us why it's interesting. Continue to follow the inverted pyramid structure. \n",
         "- Improve your readability. Post your \"before & after\" scores from the Hemingway App."
+        "- My project will be looking at data from universities with top performing Education departments and the migration of these new teachers after graduation. I will also be analyzing school districts near these top performing education departments. I would like to see if there is a corealtion between high performing teaching colleges and the quality of education coming from the communities where the top teaching colleges are found."
       ]
     },
     {
@@ -73,10 +81,12 @@
         "# Part 2\n",
         "\n",
         "#### Find sources\n",
+        <br><br>
         "- Link to at least 2 relevant sources for your topic. Sources could include any data or writing about your topic.\n",
+         <br><br>
         "- Use [Markdown](https://commonmark.org/help/) to format your links.\n",
-        "- Best Teaching Colleges (https://www.niche.com/colleges/search/best-colleges-for-education/). This link shows the brick and mortar colleges with top Eductaion Departments.\n",
-        "- Linkeding (https://www.linkedin.com/search/results/people/?facetIndustry=%5B%2267%22%5D&facetSchool=%5B%2219443%22%5D&origin=FACETED_SEARCH). This link is a search to show where teachers graduating from top programs end up teaching\n",
+        "- Study on the hiring trends of teachers and how this hurts low income areas (https://cepa.stanford.edu/sites/default/files/Reininger%20HA%20EEPA%202012.pdf).\n",
+        "- Study on the hiring trends of teachers and how this hurts low income areas (https://www.educationnext.org/high-poverty-schools-no-trouble-attracting-great-teachers/).\n",
         "- Summarize each source in 1-2 sentences.\n",
         "\n",
         "#### Stretch goals\n",
@@ -104,11 +114,14 @@
       "source": [
         "# Part 3\n",
         "\n",
+        <br><br>
         "#### Plan your next steps\n",
+        <br>
         "- Describe at least 2 actions you'd take to get started with your project.\n",
         "- Use Markdown headings and lists to organize your plan.\n",
         "\n",
         "#### Stretch goals\n",
+        <br>
         "- Add detail to your plan.\n",
         "- Publish your project proposal on your GitHub Pages site. "
       ]
@@ -125,3 +138,4 @@
     }
   ]
 }
+
