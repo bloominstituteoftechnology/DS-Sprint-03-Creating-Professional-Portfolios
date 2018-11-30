@@ -1,5 +1,6 @@
 # Revise your writing assignment
 Went from 7th grade to 5th grade reading level. 
+Original: https://towardsdatascience.com/the-real-world-isnt-kaggle-de168311e99b
 
 ### How to Get Access to an Unpublished Dataset
 
