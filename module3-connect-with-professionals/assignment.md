@@ -3,26 +3,41 @@
 
 ### List your target geographic areas
 
-- 
+- San Francisco Bay Area
+- Los Angeles
+- New York City Area
+- International
 
 
 ### List your target industries
 
-- 
+- Fintech
+- Trading / Investing Firms
+- Biotechnology
 
 
 ### List 10 companies in your target geographic area or industry
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+Fintech
+1. LendingClub
+2. NerdWallet
+3. YapStone
+4. FinGenius
+5. Binatix
+
+Trading
+1. Two Sigma
+2. Aidiyia
+3. Cerebellum Capital
+4. Rebellion Research
+5. Comm Eq
+
+Biotechnology
+1. Roche
+2. Janssen
+3. Wave Life Sciences
+4. Sanofi
+5. Novartis
 
 
 ### Find 5 data scientists who:
@@ -48,10 +63,13 @@ Checklist:
 - [ ] Share your background, in 1-2 sentences. (No self-deprecation.)
 - [ ] Show enthusiasm! (But no desperation.)
 
-Your message:
+Your message (template):
 
+Hi (insert name),
 
-
+   I read your post on (insert site) and I thought it was great. I particularly found (insert couple of points I find interesting) to be fascinating.
+   
+   I am currently transitioning to a career in machine learning and I would love to spend ten minutes with you to get your thoughts on how best to proceed. Right now, I am building a portfolio and publishing machine learning content but I would appreciate anything else you could recommend to help me progress. 
 
 
 ### Stretch goals
