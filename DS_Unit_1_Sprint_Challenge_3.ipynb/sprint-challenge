@@ -70,7 +70,9 @@
       },
       "cell_type": "markdown",
       "source": [
-        "I'm working on a dataset that has information on gun violence data. The data spans five years and contains detailed information about the events. My hypothesis is there are more incidents in states with more relaxed gun laws. I will count up the incidents for each state and compare them with states' gun laws.\n"
+        "I'm working on a dataset that has information on gun violence data. The data spans five years and contains detailed information about the events. My hypothesis is there are more incidents in states with more relaxed gun laws. I will count up the incidents for each state and compare them with states' gun laws.\n",
+        "\n",
+        "The story is interesting because currently we face a lot of gun violence. To be able to have some data as to why or what causes the gun violence would be useful.\n"
       ]
     },
     {
