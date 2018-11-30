@@ -1,6 +1,6 @@
 # Portfolio assignment
 
-Enter your portfolio URL:
+Enter your portfolio URL: 
 
 
 Complete the checklist of portfolio requirements
