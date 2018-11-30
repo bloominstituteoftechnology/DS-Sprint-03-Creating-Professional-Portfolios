@@ -1,6 +1,4 @@
 {
-  "nbformat": 4,
-  "nbformat_minor": 0,
   "metadata": {
     "colab": {
       "name": "DS_Unit_1_Sprint_Challenge_3.ipynb",
@@ -13,6 +11,8 @@
       "display_name": "Python 3"
     }
   },
+  "nbformat": 4,
+  "nbformat_minor": 0,
   "cells": [
     {
       "metadata": {
@@ -25,6 +25,7 @@
         "\n",
         "# Creating Professional Portfolios\n",
         "\n",
+        <br><br>
         "For your Sprint Challenge, you will **write about your upcoming [data storytelling portfolio project](https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r)**.\n",
         "\n",
         "(Don't worry, you don't have to choose your final idea now. For this challenge, you can write about any idea you're considering.)"
