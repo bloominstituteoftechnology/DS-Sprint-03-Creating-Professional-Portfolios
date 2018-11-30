@@ -1,4 +1,4 @@
-**NBA team Elo ratings may not be 100% accurate due to unforeseen circumstances.**
+# **NBA team Elo ratings may not be 100% accurate due to unforeseen circumstances.**
 
 Sports have always been a hotbed of data that is scrutinized, analyzed and argued over. Throughout the years, one of the most heated arguments has been "who is the best". The best team. The best player. The best position. The best era. Like any NBA season, all pundits believe that there has to be a champion at the end of their argument season.
 
