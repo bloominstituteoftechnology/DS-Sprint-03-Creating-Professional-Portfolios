@@ -35,11 +35,11 @@
 
 List their URLs, and something interesting about each person and/or their company:
 
-1.
-2. 
-3. 
-4. 
-5. 
+1. https://www.linkedin.com/in/amanda-kaplan-227149a2/; Aristotle uses data to help their clients improve their political campaigns.
+2. https://www.linkedin.com/in/stacy-woods-050670b3/; She's a data scientist with a PhD, but no CS degrees.
+3. https://www.linkedin.com/in/johnmhorn/; He's a data scientist with 2 master degrees, but no CS degree.
+4. https://www.linkedin.com/in/bret-gaulin-30217015/; He's a data anaylyst with a BA in Political Science and certificates in data science.
+5. https://www.linkedin.com/in/sarahberlin/; DemocracyWorks develops technology to help remove the barriers to voting.
 
 
 ### Draft 1 cold email or LinkedIn message to request an informational interview
