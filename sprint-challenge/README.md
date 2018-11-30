@@ -46,8 +46,8 @@ My next steps should be:
 
 ## **Hemingway App Before and After of Part 1**
 
-#### **Before**
+## **Before**
 ![Image](https://github.com/hughjafro/DS-Sprint-03-Creating-Professional-Portfolios/blob/master/sprint-challenge/DS%2001%20Sprint%2003%20%20before.png)
 
-#### **After**
+## **After**
 ![Image](https://github.com/hughjafro/DS-Sprint-03-Creating-Professional-Portfolios/blob/master/sprint-challenge/DS%2001%20Sprint%2003%20after.png)
